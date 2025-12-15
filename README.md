@@ -26,7 +26,6 @@
 **IDE & Tools**
 <br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
 <br>
