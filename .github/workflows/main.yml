@@ -2,21 +2,23 @@ name: WakaTime Readme
 
 on:
   schedule:
-    # 매일 밤 12시(UTC)에 실행 (한국 시간 오전 9시)
+    # 매일 밤 12시(UTC)에 실행
     - cron: '0 0 * * *'
-  workflow_dispatch: # 수동 실행 가능하도록 설정
+  workflow_dispatch: # 수동 실행 가능
 
 jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # 쓰기 권한 명시
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-          # 보여줄 섹션 설정 (원하는 것만 True)
+          # 보여줄 섹션 설정
           SHOW_OS: "False"
           SHOW_PROJECTS: "True"
           SHOW_EDITORS: "False"
@@ -24,6 +26,3 @@ jobs:
           SHOW_COMMIT: "False"
           SHOW_LANGUAGE: "True"
           SHOW_LINES_OF_CODE: "True"
-          
-          # 언어 개수 제한 (너무 길어지는 것 방지)
-          LANG_COUNT: 5
