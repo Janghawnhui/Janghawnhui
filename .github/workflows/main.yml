@@ -10,15 +10,14 @@ jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
-    permissions:
-      contents: write # 403 권한 에러 방지
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }} 
+          # 👆 위 부분이 바뀌었습니다. (GITHUB_TOKEN -> GH_TOKEN)
           
-          # 아래 설정들만 남기고 나머지는 다 지웠습니다.
+          # 설정 옵션
           SHOW_OS: "False"
           SHOW_PROJECTS: "True"
           SHOW_EDITORS: "False"
