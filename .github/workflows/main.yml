@@ -2,7 +2,7 @@ name: WakaTime Readme
 
 on:
   schedule:
-    # 매일 밤 12시(UTC)에 실행
+    # 매일 밤 12시(UTC) 실행
     - cron: '0 0 * * *'
   workflow_dispatch: # 수동 실행 가능
 
