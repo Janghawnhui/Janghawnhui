@@ -7,6 +7,7 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/JSP-007396?style=flat&logo=java&logoColor=white">
@@ -48,6 +49,7 @@
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ghksgml0807" height="150" alt="solved.ac badge"/>
 </a>
 <br>
+
 ### ⏱ WakaTime Stats
   <!--START_SECTION:waka-->
   <!--END_SECTION:waka-->
