@@ -51,15 +51,17 @@
 
 ### ⏱ WakaTime Stats
   <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-1.56%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%2047%20mins-blue?style=flat)
 
-**저는 저녁형 인간이에요. 🦉** 
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-1.28%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+
+**저는 아침형 인간이에요. 🐤** 
 
 ```text
-🌞 아침                     105 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-🌆 낮　                     1109 commits        ███████████░░░░░░░░░░░░░░   44.75 % 
-🌃 저녁                     945 commits         ██████████░░░░░░░░░░░░░░░   38.14 % 
-🌙 밤　                     319 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+🌞 아침                     92 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+🌆 낮　                     1057 commits        █████████████░░░░░░░░░░░░   50.41 % 
+🌃 저녁                     727 commits         █████████░░░░░░░░░░░░░░░░   34.67 % 
+🌙 밤　                     221 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
 ```
 
 
@@ -79,5 +81,5 @@
 ```
 
 
- Last Updated on 07/06/2026 19:53:22 UTC
+ Last Updated on 08/06/2026 20:41:23 UTC
 <!--END_SECTION:waka-->
