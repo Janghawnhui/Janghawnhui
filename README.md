@@ -51,15 +51,17 @@
 
 ### ⏱ WakaTime Stats
   <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%2030%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-1.56%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **저는 저녁형 인간이에요. 🦉** 
 
 ```text
-🌞 아침                     105 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-🌆 낮　                     1104 commits        ███████████░░░░░░░░░░░░░░   44.77 % 
-🌃 저녁                     941 commits         ██████████░░░░░░░░░░░░░░░   38.16 % 
-🌙 밤　                     316 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+🌞 아침                     105 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+🌆 낮　                     1109 commits        ███████████░░░░░░░░░░░░░░   44.75 % 
+🌃 저녁                     945 commits         ██████████░░░░░░░░░░░░░░░   38.14 % 
+🌙 밤　                     319 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
 ```
 
 
@@ -85,5 +87,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 07/08/2026 00:24:01 UTC
+ Last Updated on 07/08/2026 19:28:37 UTC
 <!--END_SECTION:waka-->
